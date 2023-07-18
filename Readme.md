@@ -1,0 +1,1 @@
+coding along with [JavaScript Full Course (2023) - Beginner to Pro](https://www.youtube.com/watch?v=SBmSRK3feww) by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev)
